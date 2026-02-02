@@ -41,12 +41,16 @@ In this project:
 
 ##  Project Structure
  Super-Resolution-Using-GAN/
-│
-├── SRGAN.ipynb
-├── srgan_generator.pth
-├── SRGAN_Output/
-│ └── super_resolution_output.png
-└── README.md
+ 
+-->SRGAN.ipynb
+
+-->srgan_generator.pth
+
+-->SRGAN_Output/
+
+  --> super_resolution_output.png
+  
+-->README.md
 
 ---
 
